@@ -9,4 +9,5 @@ Repo for my SQL projects
 ### Certifications
 - #### [HackerRank SQL (Basic)](https://www.hackerrank.com/certificates/2f913fd7f08e)
 - #### [HackerRank SQL (Intermediate)](https://www.hackerrank.com/certificates/d2df4cf356b4)
+- #### [HackerRank SQL (Advanced)](https://www.hackerrank.com/certificates/3eb62d8a50cb)
 
