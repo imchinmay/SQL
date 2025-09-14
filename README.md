@@ -4,7 +4,6 @@
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 
-Repo for my SQL projects
 
 ### Certifications
 - #### [HackerRank SQL (Basic)](https://www.hackerrank.com/certificates/2f913fd7f08e)
